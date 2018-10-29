@@ -12,5 +12,6 @@ class Lamp {
   // method
   public void turnOff() {
   	isOn = false;
+	System.out.println("Last commit");
   }
 }
