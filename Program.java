@@ -6,6 +6,7 @@ class Lamp {
   // method
   public void turnOn() {
     isOn = true;
+	System.out.println("Nowa");
   }
 
   // method
