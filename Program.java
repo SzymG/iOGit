@@ -1,6 +1,7 @@
 class Lamp {
 
-  // instance variable
+	//mnaljdnljsandsalkmnlknaslkndsadknSA
+  // instance variablesdfsdf sd
   private boolean isOn;
   private boolean isOff;
 
