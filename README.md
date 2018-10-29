@@ -1,1 +1,2 @@
 # iOGit
+Szymon Gągorek
